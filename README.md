@@ -1,4 +1,5 @@
 Preqiuisiute Setup :
+
 (1) Local mechine should have python installed
 
 (2) python path shpuld be added in the Environmental variables
